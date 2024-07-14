@@ -54,11 +54,12 @@ li {
   margin-bottom: 40px;
   text-align: center;
   letter-spacing: .1em;
-  color: #f5b5d5;
+  color: #ADD8E6;
 }
 
 .lead {
   margin-bottom: 30px;
+  font-family: "MS ゴシック";
 }
 
 /*--------------------------------
@@ -80,7 +81,7 @@ li {
   font-size: 72px;
   line-height: 1.2;
   margin-bottom: 20px;
-  color: #f5b5d5;
+  color: #ADD8E6;
 }
 .header-subtitle {
   font-family: "Amatic SC", cursive;
@@ -109,7 +110,7 @@ li {
   font-size: 40px;
   line-height: 1.2;
   margin-bottom: 5px;
-  color: #f5b5d5;
+  color: #ADD8E6;
 }
 .sub-header-subtitle {
   font-family: "Amatic SC", cursive;
@@ -191,10 +192,12 @@ li {
   font-size: 12px;
   font-weight: bold;
   margin-top: 8px;
+  font-family:"UD明朝";
 }
 
 .works-info {
   font-size: 10px;
+  font-family: "UD明朝";
 }
 
 /*--------------------------------
@@ -227,6 +230,7 @@ li {
 
 .skill-name {
   margin-bottom: 3px;
+  font-family:"UD明朝";
 }
 
 /*--------------------------------
@@ -275,7 +279,7 @@ li {
   padding: 10px;
   cursor: pointer;
   text-align: center;
-  background-color: #fadcea;
+  background-color: #ADD8E6;
 }
 
 .page-top .material-icons-outlined {
@@ -288,7 +292,7 @@ li {
 ---------------------------------*/
 .footer {
   padding: 30px;
-  background-color: #efc4d8;
+  background-color: #ADD8E6;
 }
 
 .copyright {
